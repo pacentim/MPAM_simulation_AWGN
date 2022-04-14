@@ -6,3 +6,5 @@ basing on the a-priori probabilities and the distances. Then, it searches for th
 binary search.
 The simulation breaks if a high number of error is reached, or if 0 errors are detected.
 Finally, a plot is provided, comparing the results of the simulation with the theoretical curve.
+
+##### Note: even if the code is designed for a general M-ary transmission, the report is for the specific case of a bipolar transmission
